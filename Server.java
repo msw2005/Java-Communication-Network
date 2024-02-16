@@ -69,4 +69,13 @@ public class Server {
             }
         }
     }
+    public static void main(String[] args) {
+        int port = 1234;
+        Server server = new Server(port);
+        try {
+            server.start();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
