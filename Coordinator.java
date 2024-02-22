@@ -1,9 +1,10 @@
+import java.io.IOException;
 import java.util.*;
 
 public class Coordinator extends Member {
     private List<Member> activeMembers;
 
-    public Coordinator(String id, String ipAddress, int port) {
+    public Coordinator(String id, String ipAddress, int port) throws IOException {
         super(id, ipAddress, port);
         this.activeMembers = new ArrayList<>();
     }
