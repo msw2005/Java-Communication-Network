@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-
+// code
 public class Client {
     private String serverIP;
     private int serverPort;
