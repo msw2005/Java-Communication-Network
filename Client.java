@@ -7,7 +7,7 @@ public class Client {
     private Socket socket;
     private PrintWriter out;
     private BufferedReader in;
-
+// hello
     public Client(String serverIP, int serverPort) {
         this.serverIP = serverIP;
         this.serverPort = serverPort;
