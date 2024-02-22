@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.*;
-
+// BMW
 public class Coordinator extends Member {
     private List<Member> activeMembers;
 
