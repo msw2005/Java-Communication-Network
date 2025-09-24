@@ -40,7 +40,7 @@ Compile the Java files:
 
 bash
 javac *.java
-Run the server:
+Run the server
 
 bash
 java Server
