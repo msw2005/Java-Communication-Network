@@ -29,7 +29,7 @@ Basic understanding of Java programming and socket networking
 
 How to Run
 
-Clone the repository:
+Clone d repository:
 
 bash
 git clone https://github.com/msw2005/Java-Communication-Network.git
