@@ -11,7 +11,7 @@ public class Server {
         this.port = port;
         this.members = new ArrayList<>();
     }
-
+// empty start function
     public void start() throws IOException {
         this.serverSocket = new ServerSocket(port);
         System.out.println("Server started on port " + port);
