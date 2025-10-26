@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.*;
-// BMW??
+// import statements
 public class Coordinator extends Member {
     private List<Member> activeMembers;
 
@@ -27,7 +27,7 @@ public class Coordinator extends Member {
     public void addMember(Member member) {
         activeMembers.add(member);
     }
-
+// void functions
     public void removeMember(Member member) {
         activeMembers.remove(member);
     }
