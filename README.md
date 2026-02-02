@@ -1,7 +1,7 @@
 Java-Communication-Network
 
 
-Author: M Sadiq Warsi
+Author: M Sadiq Warsi,
 
 About:
 A Java-based communication network project demonstrating network communication concepts such as client-server socket programming. This project builds a foundational communication system where multiple clients can connect to a server to exchange messages or data over a TCP/IP network. It aims to showcase Java networking fundamentals suitable for learning, experimentation, and extending into more complex communication applications.
@@ -18,7 +18,7 @@ Demonstrates use of Java's java.net.Socket and java.net.ServerSocket classes
 
 Basic error handling and connection management
 
-Code designed for ease of understanding and modification
+Code designed for ease of understanding and modification.
 
 Getting Started
 Prerequisites
