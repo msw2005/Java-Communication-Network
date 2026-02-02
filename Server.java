@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 import java.util.*;
-//creating server class here
+//creating server class 
 public class Server {
     private int port;
     private ServerSocket serverSocket;
