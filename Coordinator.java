@@ -15,7 +15,7 @@ public class Coordinator extends Member {
             System.out.println(member.toString());
         }
     }
-
+// Handle Details Request
     public String handleDetailsRequest() {
         StringBuilder details = new StringBuilder();
         for (Member member : activeMembers) {
