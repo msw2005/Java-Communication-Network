@@ -38,7 +38,7 @@ Navigate to the project directory:
 bash
 cd Java-Communication-Network
 Compile the Java files:
-
+c
 bash
 javac *.java
 Run the server
