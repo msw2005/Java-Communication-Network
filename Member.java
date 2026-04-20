@@ -11,6 +11,7 @@ public class Member {
 
     public Member(String id, String ipAddress, int port) throws IOException {
         this.id = id;
+        #This function call to refre to the onject in the current function
         this.ipAddress = ipAddress;
         this.port = port;
         this.socket = socket;
