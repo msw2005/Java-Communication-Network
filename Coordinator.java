@@ -26,6 +26,7 @@ public class Coordinator extends Member {
 
     public void addMember(Member member) {
         activeMembers.add(member);
+        //change stuff in member
     }
 // void functions here
     public void removeMember(Member member) {
