@@ -1,7 +1,7 @@
 import java.net.Socket;
 import java.io.IOException;
 import java.io.PrintWriter;
-//  statements
+//  statements down there
 public class Member {
     private String id;
     private String ipAddress;
