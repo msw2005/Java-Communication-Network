@@ -13,7 +13,7 @@ TCP/IP socket-based client-server communication
 Handling multiple client connections (if applicable)
 
  
-Sending and receiving messages across the network
+Sending and receiving messages across the network,,
 
 Demonstrates use of Java's java.net.Socket and java.net.ServerSocket classes
 
