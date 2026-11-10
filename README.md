@@ -7,6 +7,7 @@ About:
 A Java-based communication network project demonstrating network communication concepts such as client-server socket programming. This project builds a foundational communication system where multiple clients can connect to a server to exchange messages or data over a TCP/IP network. It aims to showcase Java networking fundamentals suitable for learning, experimentation, and extending into more complex communication applications.
 
 Features
+x
 TCP/IP socket-based client-server communication
 
 989
