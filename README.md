@@ -23,7 +23,8 @@ Basic error handling and connection management
 Code designed for ease of understanding and modification.
 
 Getting Started
-Prerequisites
+
+Prerequisites (See below)
 
 Java Development Kit (JDK) installed (version 8 or later recommended)
 
